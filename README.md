@@ -1,4 +1,4 @@
 # SGGAN
-Segmentation Guided GAN
+A PyTorch implementation.
 
-All rights reserved
+All rights reserved.
