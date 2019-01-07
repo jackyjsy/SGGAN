@@ -1,0 +1,6 @@
+# Train
+python main.py --mode='train' --dataset='CelebA' --image_size=128 --sample_path='stargan_celebA_seg_attr/samples' --log_path='stargan_celebA_seg_attr/logs' --model_save_path='stargan_celebA_seg_attr/models' --result_path='stargan_celebA_seg_attr/results' --pretrained_model='17_2000'
+
+# Test
+python main_test.py --mode='train' --dataset='CelebA' --image_size=128 --sample_path='stargan_celebA_seg_attr/samples' --log_path='stargan_celebA_seg_attr/logs' --model_save_path='stargan_celebA_seg_attr/models' --result_path='stargan_celebA_seg_attr/results' --test_model='20_1000' --test_image_path='data/CelebA_nocrop/test/imgs/' --test_seg_path='data/CelebA_nocrop/test/nosmile2smile/'
+
