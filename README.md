@@ -5,8 +5,8 @@ A PyTorch implementation of SGGAN proposed in [Segmentation guided image-to-imag
 * Processed segmentations for CelebA dataset is released.
 * Our journal extention of this work has been published in TIP: [Geometrically Editable Face Image Translation With Adversarial Networks](https://ieeexplore.ieee.org/document/9336328)l
 
-## Segmentation data of CelebA
-Preprocessed segmentation data can be downloaded via [Google Drive](https://drive.google.com/file/d/1K496cZAlssIvrbW8ygzivYobWvQuAaGM/view?usp=sharing)
+## Segmentation data
+Preprocessed segmentation data for CelebA can be downloaded via [Google Drive](https://drive.google.com/file/d/1K496cZAlssIvrbW8ygzivYobWvQuAaGM/view?usp=sharing)
 
 ## Citation
 If you find this repo useful in your research, please cite the following paper:
