@@ -1,7 +1,9 @@
 # SGGAN
-A PyTorch implementation of SGGAN proposed in [Segmentation guided image-to-image translation with adversarial networks](https://ieeexplore.ieee.org/document/8756542) (FG 2019) 
+A PyTorch implementation of SGGAN proposed in [Segmentation guided image-to-image translation with adversarial networks](https://ieeexplore.ieee.org/document/8756542) (FG 2019) ([arXiv preprint version](https://arxiv.org/abs/1901.01569)).
 
-[arXiv version](https://arxiv.org/abs/1901.01569).
+by [Songyao Jiang](https://www.songyaojiang.com/), [Zhiqiang Tao](https://ztao.cc/) and [Yun Fu](http://www1.ece.neu.edu/~yunfu/)
+
+
 
 ## News
 * Processed segmentations for CelebA dataset is released.
